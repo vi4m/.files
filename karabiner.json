@@ -1,0 +1,12 @@
+{
+    "profiles": [
+        {
+            "name": "Default profile",
+            "selected": true,
+            "simple_modifications": {
+                "right_command": "right_alt",
+                "fn": "left_control"
+            }
+        }
+    ]
+}⏎ 
